@@ -4,9 +4,23 @@ In this project we use Hog and face_recognise to detect my colleagues.
 <br>
 
 I upload my Friends photo and I detect them in photo .
+
 <br>
 
-## :blush:Step Two :( Detect Video ):blush:</b>
+## :blush:Step One :( Detect Video ):blush:</b>
+
+<br>
+
+Download program "2.Realtime Face Recognition.py" and these images "messi-neymar.jpg" & "messi-ronaldo.jpg" & "messi.jpeg" & "messi.jpg" & "picture.jpg" & "ronaldo-ramos.jpg" & "ronaldo.jpg" . 
+
+<br>
+
+
+
+
+<br>
+
+## :blush:Step Two :( Detect Image ):blush:</b>
 
 <br>
 Download program "1.Image Face Recognition.py" and these images "messi-neymar.jpg" & "messi-ronaldo.jpg" & "messi.jpeg" & "messi.jpg" & "picture.jpg" & "ronaldo-ramos.jpg" & "ronaldo.jpg" . 
